@@ -52,4 +52,6 @@ dependencies {
 
     implementation("androidx.fragment:fragment:1.8.9")
     implementation("androidx.activity:activity:1.11.0")
+    implementation("com.google.android.gms:play-services-location:21.3.0")
+
 }
